@@ -6,12 +6,8 @@ The project must be implemented in C++ using only specified libraries and data s
 
 # Description:
 
-The assignment requires building an application enabling users to create multiple routes, each comprising at least two airports.
-
-# Requirements:
-
-The project must be implemented in C++ using only specified libraries and data structures.
-The provided function prototypes in Airport.h, Route.h, and Navigator.h header files must be used without editing them.
+An application enabling users to create multiple routes, each comprising at least two airports.
+Implemented in C++ using only specified libraries and data structures.
 Input is facilitated through a file (proj3_data.txt) containing airport information.
 
 # Key Components:
