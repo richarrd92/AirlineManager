@@ -1,9 +1,3 @@
-//Name: Airport.h
-//Project: CMSC 202 Project 3, Spring 2024
-//Author:  Jeremy Dixon
-//Date:    2/22/2024
-//Desc: This file contains the header details for the Airport class
-//      The airports are nodes for a route
 
 #ifndef AIRPORT_H
 #define AIRPORT_H
