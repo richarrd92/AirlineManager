@@ -1,19 +1,3 @@
-/*****************************************
-** File:    Airport.cpp
-** Project: CMSC 202 Project 3, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/02/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the airport class
-** the aiport class is the node of the route linked list 
-** the file contains functions;
-** To get the airport name, city, country etc
-** To set the next airport in the route
-** more info in the project description.
-***********************************************/
 
 #include "Airport.h"
 #include <string>
