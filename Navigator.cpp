@@ -1,21 +1,3 @@
-/*****************************************
-** File:    Navigator.cpp
-** Project: CMSC 202 Project 3, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/02/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the Navigator class
-** the nagigator class is manages both route and airport class
-** the file contains functions;
-** To insert new routes at the end of route
-** To read file, and store given data 
-** To remove airport from route of choice 
-** To reverse the route and so much more
-** more info in the project description.
-***********************************************/
 
 #include "Airport.h"
 #include "Route.h"
