@@ -1,20 +1,3 @@
-/*****************************************
-** File:    Route.cpp
-** Project: CMSC 202 Project 3, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/02/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the route class
-** the route class is the linked list of airports
-** the file contains functions;
-** To insert airport at the end of route
-** To remove airport at any given index in the route
-** To reverse the route and so much more
-** more info in the project description.
-***********************************************/
 
 #include <string>
 #include <iostream>
