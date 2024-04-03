@@ -1,8 +1,3 @@
-//Name: Navigator.h
-//Project: CMSC 202 Project 3, Spring 2024
-//Author:  Jeremy Dixon
-//Date:   3/10/2024
-//Desc: This file contains the header details for the Navigator class
 
 #ifndef NAVIGATOR_H
 #define NAVIGATOR_H
