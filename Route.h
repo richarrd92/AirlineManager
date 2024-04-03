@@ -1,9 +1,3 @@
-//Name: Route.h
-//Project: CMSC 202 Project 3, Spring 2024
-//Author:  Jeremy Dixon
-//Date:    2/22/2024
-//Desc: This file contains the header details for the Route class
-//      A route is a linked list that uses airports as nodes
 
 #ifndef ROUTE_H
 #define ROUTE_H
