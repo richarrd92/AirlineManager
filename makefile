@@ -27,19 +27,3 @@ run1:
 val1:
 	valgrind ./proj3 proj3_data.txt
 
-submit:
-	cp Airport.h Airport.cpp Route.h Route.cpp Navigator.h Navigator.cpp proj3.cpp ~/cs202proj/proj3
-
-##########Grading Commands############
-
-##Used to do regular tests
-grading:
-	valgrind ./proj3 $(IODIR)proj3_grading.txt
-
-##Used if the student forgot the header files
-copy_headers:
-	cp $(IODIR)Airport.h $(IODIR)Route.h $(IODIR)Navigator.h .
-
-##Used to copy the test file into the current directory
-copy_test:
-	cp $(IODIR)proj3_grading.txt .
